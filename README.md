@@ -1,2 +1,2 @@
 # Historia-do-HTML
-Pesquisa sobreo HTML feita por Gustavo Luiz e Rodrigo Russo
+Pesquisa sobre o HTML feita por Gustavo Luiz e Rodrigo Russo
